@@ -1,3 +1,5 @@
+<img width="1080" height="606" alt="image" src="https://github.com/user-attachments/assets/e9bfabfd-984a-4da9-943e-e0773f60228f" />
+
 ### Problem Statement
 The pace of AI innovation has accelerated dramatically. As Sundar Pichai recently noted, in a couple of years, businesses can end up building what they built in decades. Every day brings a new AI product release, expanding the ecosystem at an overwhelming speed. While this abundance is valuable, it also exposes a significant gap. Users have highly specific, ever-changing needs shaped by their work, environment, and workflows. No single AI tool or even a massive catalogue of them can cover the infinite variety of user requirements. In addition, this rapid acceleration creates a "paradox of choice."
 
@@ -44,9 +46,9 @@ The system incorporates multiple agentic features, including a coordinated multi
 While the current implementation of 36Labs is fully functional, the generated code still exhibits occasional formatting inconsistencies and import-related issues. Also, the present workflow_agent is structured to generate a basic outline in only three steps to create a relatively simple agent. Addressing this will require scaling the system to support parallel execution with multiple developer_agents, each guided by more detailed and structured prompts. Likewise, the tester_agents must evolve into stricter, more comprehensive evaluators equipped with an expanded library of error-detection rules.
 In future, 36Labs can scale into a production-grade framework with the integration of MCP servers, observability and agent-evaluation pipelines, and improved cross-agent orchestration. With the state-of-the-art models such as Gemini 3.0, the platform can gain major enhancements in reliability and performance, enabling more precise, efficient, and fully autonomous agent creation.
 
-###References
+### References
 
 The links to the YouTube video and GitHub repository with thorough explanation of the project including the demos are attached to the writeup. The showcased demos run within minutes, that would typically take hours to code manually, thereby clearly illustrating the dramatic reduction in development time achieved through 36Labs.
 
-###Acknowledgments
+### Acknowledgments
 The author gratefully acknowledges all organisers and tutors of the Google × Kaggle 5-Day AI Agents Intensive course. The programme was exceptionally well designed, enabling professionals, students, and even non-traditional coders to understand core agentic concepts and confidently build their own AI agents. The author highly recommends this course for beginners entering the world of Agentic AI.
