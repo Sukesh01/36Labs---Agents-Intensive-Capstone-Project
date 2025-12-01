@@ -32,7 +32,7 @@ The test_debug_agent repeats this process in a controlled loop for a predefined 
 ### Tools and Models
 Along with _google_search_, 36Labs employs a suite of custom tools, _record_user_answer, agent_outline, save_code, analyze_code, and save_final_agent_ , used by the memory_agent, strategy_agent, developer_agent (also by debug_agent), tester_agent, and setup_agent respectively to store their outputs in structured dictionaries. Each agent is also powered by the gemini-2.5-flash-lite model, enabling reliable reasoning, code generation, and task execution throughout the workflow.
 
-##Capstone Project
+## Capstone Project
 ### Project Journey
 The initial days of the capstone were dedicated to brainstorming and refining the core concept behind 36Labs. The project draws inspiration from platforms like ElevenLabs and EmergentLabs, both of which enable users to build sophisticated AI-driven tools and products, hence named after them. Early development focused on creating single-role agents and evaluating their outputs, iteratively improving prompts and behaviours for consistency. As the project progressed, these isolated agents evolved into a well-structured multi-agent system capable of managing workflows, sessions, and collaborative reasoning. In later stages, A2A compatibility and long-term memory were integrated, greatly enhancing continuity and autonomy. Eventually, the fully developed system was deployed to the cloud, completing the journey from idea to functional platform.
 
