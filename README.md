@@ -43,7 +43,7 @@ The system incorporates multiple agentic features, including a coordinated multi
 
 ## Installation and Setup
 
-Kindly refer to the uploaded kaggle notebook file for the installation, setup and execution of the system
+Kindly refer to the uploaded kaggle notebook file for the installation, setup and execution of the system.
 
 ### Future Directions
 
