@@ -41,6 +41,10 @@ The initial days of the capstone were dedicated to brainstorming and refining th
 This project aligns best with the **Freestyle Track**, as its core concept is broad, flexible, and difficult to confine to a single category. 36Labs is inherently innovative, enabling users to create arbitrary AI tools and agents tailored to tackle real-world needs (Agents for Good), optimising organisational workflows (Enterprise Agents), or delivering highly personalised assistance (Concierge Agents).
 The system incorporates multiple agentic features, including a coordinated multi-agent architecture, both built-in and custom tool integrations, robust session management, long-term memory, adherence to the A2A protocol, and end-to-end agent deployment.
 
+## Installation and Setup
+
+Kindly refer to the uploaded kaggle notebook file for the installation, setup and execution of the system
+
 ### Future Directions
 
 While the current implementation of 36Labs is fully functional, the generated code still exhibits occasional formatting inconsistencies and import-related issues. Also, the present workflow_agent is structured to generate a basic outline in only three steps to create a relatively simple agent. Addressing this will require scaling the system to support parallel execution with multiple developer_agents, each guided by more detailed and structured prompts. Likewise, the tester_agents must evolve into stricter, more comprehensive evaluators equipped with an expanded library of error-detection rules.
