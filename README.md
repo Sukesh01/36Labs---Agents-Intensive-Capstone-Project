@@ -55,7 +55,7 @@ In future, 36Labs can scale into a production-grade framework with the integrati
 
 ### References
 
-The links to the YouTube video and GitHub repository with thorough explanation of the project including the demos are attached to the writeup. The showcased demos run within minutes, that would typically take hours to code manually, thereby clearly illustrating the dramatic reduction in development time achieved through 36Labs.
+The links to the YouTube video and GitHub repository with thorough explanation of the project including the demos are attached to the writeup. The showcased demo agents are produced within minutes using the root agent of 36Labs, which would typically take hours to code manually, thereby clearly illustrating the dramatic reduction in development time achieved through 36Labs.
 
 ### Acknowledgments
 The author gratefully acknowledges all organisers and tutors of the Google × Kaggle 5-Day AI Agents Intensive course. The programme was exceptionally well designed, enabling professionals, students, and even non-traditional coders to understand core agentic concepts and confidently build their own AI agents. The author highly recommends this course for beginners entering the world of Agentic AI.
